@@ -1,5 +1,5 @@
 <template>
-<div>这里是登录页面123</div>
+<div>这里是登录页面123456</div>
 </template>
 
 <script>
