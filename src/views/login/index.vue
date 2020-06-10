@@ -1,6 +1,7 @@
 <template>
 
-<div>这里是登录页面123557775</div>
+<div>这里是登录页面你好啊</div>
+
 </template>
 
 <script>
