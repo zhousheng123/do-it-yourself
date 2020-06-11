@@ -1,6 +1,6 @@
 <template>
 
-<div>这里是登录页面你好啊</div>
+<div>这里是登录页面你好啊城市学院</div>
 
 </template>
 
